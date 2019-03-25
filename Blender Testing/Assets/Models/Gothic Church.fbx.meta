@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 189333f0be289ad4e92ba40b68081ced
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chruch Floor 2x2x0.2_proxy.002
+    100002: Chruch Floor 2x2x0.2_proxy.003
+    100004: Chruch Floor 2x2x0.2_proxy.004
+    100006: Chruch Floor 2x2x0.2_proxy.005
+    100008: Chruch Floor 2x2x0.2_proxy.006
+    100010: Chruch Floor 2x2x0.2_proxy.007
+    100012: Chruch Floor 2x2x0.2_proxy.008
+    100014: Chruch Floor 2x2x0.2_proxy.009
+    100016: Chruch Floor 2x4x0.2_proxy.002
+    100018: Chruch Floor 2x4x0.2_proxy.003
+    100020: Chruch Floor 2x4x0.2_proxy.004
+    100022: Chruch Floor 2x4x0.2_proxy.005
+    100024: Chruch Floor 4x4x0.2_proxy.002
+    100026: Chruch Floor 4x4x0.2_proxy.003
+    100028: Chruch Floor 4x4x0.2_proxy.004
+    100030: Chruch Floor 4x4x0.2_proxy.005
+    100032: Chruch Floor 4x4x0.2_proxy.006
+    100034: Chruch Floor 4x4x0.2_proxy.007
+    100036: Chruch Floor 4x4x0.2_proxy.008
+    100038: Chruch Floor 4x4x0.2_proxy.009
+    100040: Chruch Floor 4x4x0.2_proxy.010
+    100042: Chruch Floor 4x4x0.2_proxy.011
+    100044: Chruch Floor 4x4x0.2_proxy.012
+    100046: Chruch Floor 4x4x0.2_proxy.013
+    100048: Chruch Floor 4x4x0.2_proxy.014
+    100050: Chruch Floor 4x4x0.2_proxy.015
+    100052: Chruch Floor 4x4x0.2_proxy.016
+    100054: Chruch Floor 4x4x0.2_proxy.017
+    100056: Chruch Floor 4x4x0.2_proxy.018
+    100058: Chruch Floor 4x4x0.2_proxy.019
+    100060: Chruch Floor 4x4x0.2_proxy.020
+    100062: Chruch Floor 4x4x0.2_proxy.021
+    100064: Chruch Floor 4x4x0.2_proxy.022
+    100066: Chruch Floor 4x4x0.2_proxy.023
+    100068: Chruch Floor 4x4x0.2_proxy.024
+    100070: Chruch Floor 4x4x0.2_proxy.025
+    100072: Chruch Floor 4x4x0.2_proxy.026
+    100074: Chruch Floor 4x4x0.2_proxy.027
+    100076: Chruch Floor 4x4x0.2_proxy.028
+    100078: Chruch Floor 4x4x0.2_proxy.029
+    100080: Chruch Floor 4x4x0.2_proxy.030
+    100082: Chruch Floor 4x4x0.2_proxy.031
+    100084: Chruch Floor 4x4x0.2_proxy.032
+    100086: Chruch Floor 4x4x0.2_proxy.033
+    100088: Chruch Floor 4x4x0.2_proxy.034
+    100090: Chruch Floor 4x4x0.2_proxy.035
+    100092: Chruch Floor 4x4x0.2_proxy.036
+    100094: Chruch Floor 4x4x0.2_proxy.037
+    100096: Chruch Floor 4x4x0.2_proxy.038
+    100098: Chruch Floor 4x4x0.2_proxy.039
+    100100: Chruch Floor 4x4x0.2_proxy.040
+    100102: Chruch Floor 4x4x0.2_proxy.041
+    100104: Chruch Floor 4x4x0.2_proxy.042
+    100106: Chruch Floor 4x4x0.2_proxy.043
+    100108: Chruch Floor 4x4x0.2_proxy.044
+    100110: Chruch Floor 4x4x0.2_proxy.045
+    100112: Chruch Floor 4x4x0.2_proxy.046
+    100114: Chruch Floor 4x4x0.2_proxy.047
+    100116: Chruch Floor 4x4x0.2_proxy.048
+    100118: Chruch Floor 4x4x0.2_proxy.049
+    100120: Chruch Floor 4x4x0.2_proxy.050
+    100122: Chruch Floor 4x4x0.2_proxy.051
+    100124: Chruch Floor 4x4x0.2_proxy.052
+    100126: Chruch Floor 4x4x0.2_proxy.053
+    100128: Chruch Floor 4x4x0.2_proxy.054
+    100130: Chruch Floor 4x4x0.2_proxy.055
+    100132: Church Corner 1x4x0.2_proxy.002
+    100134: Church Corner 1x4x0.2_proxy.003
+    100136: Church Corner 1x4x0.2_proxy.004
+    100138: Church Corner 1x4x0.2_proxy.005
+    100140: Church Corner 1x4x0.2_proxy.006
+    100142: Church Corner 1x4x0.2_proxy.007
+    100144: Church Corner 1x4x0.2_proxy.008
+    100146: Church Corner 1x4x0.2_proxy.009
+    100148: Church Corner 1x4x0.2_proxy.010
+    100150: Church Corner 1x4x0.2_proxy.011
+    100152: Church Corner 1x4x0.2_proxy.012
+    100154: Church Corner 1x4x0.2_proxy.013
+    100156: Church Corner 1x4x0.2_proxy.014
+    100158: Church Corner 1x4x0.2_proxy.015
+    100160: Church Corner 1x4x0.2_proxy.016
+    100162: Church Corner 1x4x0.2_proxy.017
+    100164: Church Corner 1x4x0.2_proxy.018
+    100166: Church Corner 1x4x0.2_proxy.019
+    100168: Church Corner 1x4x0.2_proxy.020
+    100170: Church Corner 1x4x0.2_proxy.021
+    100172: Church Corner 1x4x0.2_proxy.022
+    100174: Church Corner 1x4x0.2_proxy.023
+    100176: Church Corner 1x4x0.2_proxy.024
+    100178: Church Corner 1x4x0.2_proxy.025
+    100180: Church Corner 1x4x0.2_proxy.026
+    100182: Church Corner 1x4x0.2_proxy.027
+    100184: Church Corner 1x4x0.2_proxy.028
+    100186: Church Corner 1x4x0.2_proxy.029
+    100188: Church Corner 1x4x0.2_proxy.030
+    100190: Church Corner 1x4x0.2_proxy.031
+    100192: Church Corner 1x4x0.2_proxy.032
+    100194: Church Corner 1x4x0.2_proxy.033
+    100196: Church Corner 1x4x0.2_proxy.034
+    100198: Church Corner 1x4x0.2_proxy.035
+    100200: Church Corner 1x4x0.2_proxy.036
+    100202: Church Corner 1x4x0.2_proxy.037
+    100204: Church Corner 1x4x0.2_proxy.038
+    100206: Church Corner 1x4x0.2_proxy.043
+    100208: Church Corner 1x4x0.2_proxy.044
+    100210: Church Corner 1x4x0.2_proxy.045
+    100212: Church Corner 1x4x0.2_proxy.046
+    100214: Church Door 4x4x0.2_proxy.001
+    100216: Church Door 4x4x0.2_proxy.003
+    100218: Church Vault 8x8_proxy.002
+    100220: Church Vault 8x8_proxy.003
+    100222: Church Vault 8x8_proxy.004
+    100224: Church Vault 8x8_proxy.005
+    100226: Church Vault 8x8_proxy.007
+    100228: Church Vault 8x8_proxy.008
+    100230: Church Vault 8x8_proxy.009
+    100232: Church Vault Steeple 8x8_proxy.002
+    100234: Church Wall 4x4x0.2_proxy.002
+    100236: Church Wall 4x4x0.2_proxy.003
+    100238: Church Wall 4x4x0.2_proxy.005
+    100240: Church Wall 4x4x0.2_proxy.006
+    100242: Church Wall 4x4x0.2_proxy.007
+    100244: Church Wall 4x4x0.2_proxy.008
+    100246: Church Wall 4x4x0.2_proxy.009
+    100248: Church Wall 4x4x0.2_proxy.010
+    100250: Church Wall 4x4x0.2_proxy.011
+    100252: Church Wall 4x4x0.2_proxy.012
+    100254: Church Wall 4x4x0.2_proxy.013
+    100256: Church Wall 4x4x0.2_proxy.014
+    100258: Church Wall 4x4x0.2_proxy.015
+    100260: Church Wall 4x4x0.2_proxy.016
+    100262: Church Wall 4x4x0.2_proxy.017
+    100264: Church Wall 4x4x0.2_proxy.018
+    100266: Church Wall 4x4x0.2_proxy.019
+    100268: Church Wall 4x4x0.2_proxy.020
+    100270: Church Wall 4x4x0.2_proxy.021
+    100272: Church Wall 4x4x0.2_proxy.022
+    100274: Church Wall 4x4x0.2_proxy.023
+    100276: Church Wall 4x4x0.2_proxy.024
+    100278: Church Wall 4x4x0.2_proxy.025
+    100280: Church Wall 4x4x0.2_proxy.026
+    100282: Church Wall 4x4x0.2_proxy.027
+    100284: Church Wall 4x4x0.2_proxy.028
+    100286: Church Wall 4x4x0.2_proxy.029
+    100288: Church Wall 4x4x0.2_proxy.030
+    100290: Church Wall 4x4x0.2_proxy.031
+    100292: Church Wall 4x4x0.2_proxy.032
+    100294: Church Wall 4x4x0.2_proxy.033
+    100296: Church Wall 4x4x0.2_proxy.034
+    100298: Church Wall 4x4x0.2_proxy.035
+    100300: Church Wall 4x4x0.2_proxy.036
+    100302: Church Wall 4x4x0.2_proxy.037
+    100304: Church Wall 4x4x0.2_proxy.038
+    100306: Church Wall 4x4x0.2_proxy.039
+    100308: Church Wall 4x4x0.2_proxy.040
+    100310: Church Wall 4x4x0.2_proxy.041
+    100312: Church Window 4x4x0.2_proxy.001
+    100314: Church Window 4x4x0.2_proxy.002
+    100316: Church Window 4x4x0.2_proxy.003
+    100318: Church Window 4x4x0.2_proxy.004
+    100320: Church Window 4x4x0.2_proxy.005
+    100322: Church Window 4x4x0.2_proxy.007
+    100324: Church Window 4x4x0.2_proxy.008
+    100326: Church Window 4x4x0.2_proxy.009
+    100328: Church Window 4x4x0.2_proxy.010
+    100330: Church Window 4x4x0.2_proxy.011
+    100332: Church Window 4x4x0.2_proxy.012
+    100334: Church Window 4x4x0.2_proxy.013
+    100336: Church Window 4x4x0.2_proxy.014
+    100338: Church Window 4x4x0.2_proxy.015
+    100340: Church Window 4x4x0.2_proxy.016
+    100342: Church Window 4x4x0.2_proxy.017
+    100344: Church Window 4x4x0.2_proxy.018
+    100346: Church Window 4x4x0.2_proxy.019
+    100348: Church Window 4x4x0.2_proxy.020
+    100350: Church Window 4x4x0.2_proxy.021
+    100352: //RootNode
+    100354: Internal Light
+    100356: Lamp
+    100358: Nave
+    100360: Steeple
+    100362: Vaults
+    400000: Chruch Floor 2x2x0.2_proxy.002
+    400002: Chruch Floor 2x2x0.2_proxy.003
+    400004: Chruch Floor 2x2x0.2_proxy.004
+    400006: Chruch Floor 2x2x0.2_proxy.005
+    400008: Chruch Floor 2x2x0.2_proxy.006
+    400010: Chruch Floor 2x2x0.2_proxy.007
+    400012: Chruch Floor 2x2x0.2_proxy.008
+    400014: Chruch Floor 2x2x0.2_proxy.009
+    400016: Chruch Floor 2x4x0.2_proxy.002
+    400018: Chruch Floor 2x4x0.2_proxy.003
+    400020: Chruch Floor 2x4x0.2_proxy.004
+    400022: Chruch Floor 2x4x0.2_proxy.005
+    400024: Chruch Floor 4x4x0.2_proxy.002
+    400026: Chruch Floor 4x4x0.2_proxy.003
+    400028: Chruch Floor 4x4x0.2_proxy.004
+    400030: Chruch Floor 4x4x0.2_proxy.005
+    400032: Chruch Floor 4x4x0.2_proxy.006
+    400034: Chruch Floor 4x4x0.2_proxy.007
+    400036: Chruch Floor 4x4x0.2_proxy.008
+    400038: Chruch Floor 4x4x0.2_proxy.009
+    400040: Chruch Floor 4x4x0.2_proxy.010
+    400042: Chruch Floor 4x4x0.2_proxy.011
+    400044: Chruch Floor 4x4x0.2_proxy.012
+    400046: Chruch Floor 4x4x0.2_proxy.013
+    400048: Chruch Floor 4x4x0.2_proxy.014
+    400050: Chruch Floor 4x4x0.2_proxy.015
+    400052: Chruch Floor 4x4x0.2_proxy.016
+    400054: Chruch Floor 4x4x0.2_proxy.017
+    400056: Chruch Floor 4x4x0.2_proxy.018
+    400058: Chruch Floor 4x4x0.2_proxy.019
+    400060: Chruch Floor 4x4x0.2_proxy.020
+    400062: Chruch Floor 4x4x0.2_proxy.021
+    400064: Chruch Floor 4x4x0.2_proxy.022
+    400066: Chruch Floor 4x4x0.2_proxy.023
+    400068: Chruch Floor 4x4x0.2_proxy.024
+    400070: Chruch Floor 4x4x0.2_proxy.025
+    400072: Chruch Floor 4x4x0.2_proxy.026
+    400074: Chruch Floor 4x4x0.2_proxy.027
+    400076: Chruch Floor 4x4x0.2_proxy.028
+    400078: Chruch Floor 4x4x0.2_proxy.029
+    400080: Chruch Floor 4x4x0.2_proxy.030
+    400082: Chruch Floor 4x4x0.2_proxy.031
+    400084: Chruch Floor 4x4x0.2_proxy.032
+    400086: Chruch Floor 4x4x0.2_proxy.033
+    400088: Chruch Floor 4x4x0.2_proxy.034
+    400090: Chruch Floor 4x4x0.2_proxy.035
+    400092: Chruch Floor 4x4x0.2_proxy.036
+    400094: Chruch Floor 4x4x0.2_proxy.037
+    400096: Chruch Floor 4x4x0.2_proxy.038
+    400098: Chruch Floor 4x4x0.2_proxy.039
+    400100: Chruch Floor 4x4x0.2_proxy.040
+    400102: Chruch Floor 4x4x0.2_proxy.041
+    400104: Chruch Floor 4x4x0.2_proxy.042
+    400106: Chruch Floor 4x4x0.2_proxy.043
+    400108: Chruch Floor 4x4x0.2_proxy.044
+    400110: Chruch Floor 4x4x0.2_proxy.045
+    400112: Chruch Floor 4x4x0.2_proxy.046
+    400114: Chruch Floor 4x4x0.2_proxy.047
+    400116: Chruch Floor 4x4x0.2_proxy.048
+    400118: Chruch Floor 4x4x0.2_proxy.049
+    400120: Chruch Floor 4x4x0.2_proxy.050
+    400122: Chruch Floor 4x4x0.2_proxy.051
+    400124: Chruch Floor 4x4x0.2_proxy.052
+    400126: Chruch Floor 4x4x0.2_proxy.053
+    400128: Chruch Floor 4x4x0.2_proxy.054
+    400130: Chruch Floor 4x4x0.2_proxy.055
+    400132: Church Corner 1x4x0.2_proxy.002
+    400134: Church Corner 1x4x0.2_proxy.003
+    400136: Church Corner 1x4x0.2_proxy.004
+    400138: Church Corner 1x4x0.2_proxy.005
+    400140: Church Corner 1x4x0.2_proxy.006
+    400142: Church Corner 1x4x0.2_proxy.007
+    400144: Church Corner 1x4x0.2_proxy.008
+    400146: Church Corner 1x4x0.2_proxy.009
+    400148: Church Corner 1x4x0.2_proxy.010
+    400150: Church Corner 1x4x0.2_proxy.011
+    400152: Church Corner 1x4x0.2_proxy.012
+    400154: Church Corner 1x4x0.2_proxy.013
+    400156: Church Corner 1x4x0.2_proxy.014
+    400158: Church Corner 1x4x0.2_proxy.015
+    400160: Church Corner 1x4x0.2_proxy.016
+    400162: Church Corner 1x4x0.2_proxy.017
+    400164: Church Corner 1x4x0.2_proxy.018
+    400166: Church Corner 1x4x0.2_proxy.019
+    400168: Church Corner 1x4x0.2_proxy.020
+    400170: Church Corner 1x4x0.2_proxy.021
+    400172: Church Corner 1x4x0.2_proxy.022
+    400174: Church Corner 1x4x0.2_proxy.023
+    400176: Church Corner 1x4x0.2_proxy.024
+    400178: Church Corner 1x4x0.2_proxy.025
+    400180: Church Corner 1x4x0.2_proxy.026
+    400182: Church Corner 1x4x0.2_proxy.027
+    400184: Church Corner 1x4x0.2_proxy.028
+    400186: Church Corner 1x4x0.2_proxy.029
+    400188: Church Corner 1x4x0.2_proxy.030
+    400190: Church Corner 1x4x0.2_proxy.031
+    400192: Church Corner 1x4x0.2_proxy.032
+    400194: Church Corner 1x4x0.2_proxy.033
+    400196: Church Corner 1x4x0.2_proxy.034
+    400198: Church Corner 1x4x0.2_proxy.035
+    400200: Church Corner 1x4x0.2_proxy.036
+    400202: Church Corner 1x4x0.2_proxy.037
+    400204: Church Corner 1x4x0.2_proxy.038
+    400206: Church Corner 1x4x0.2_proxy.043
+    400208: Church Corner 1x4x0.2_proxy.044
+    400210: Church Corner 1x4x0.2_proxy.045
+    400212: Church Corner 1x4x0.2_proxy.046
+    400214: Church Door 4x4x0.2_proxy.001
+    400216: Church Door 4x4x0.2_proxy.003
+    400218: Church Vault 8x8_proxy.002
+    400220: Church Vault 8x8_proxy.003
+    400222: Church Vault 8x8_proxy.004
+    400224: Church Vault 8x8_proxy.005
+    400226: Church Vault 8x8_proxy.007
+    400228: Church Vault 8x8_proxy.008
+    400230: Church Vault 8x8_proxy.009
+    400232: Church Vault Steeple 8x8_proxy.002
+    400234: Church Wall 4x4x0.2_proxy.002
+    400236: Church Wall 4x4x0.2_proxy.003
+    400238: Church Wall 4x4x0.2_proxy.005
+    400240: Church Wall 4x4x0.2_proxy.006
+    400242: Church Wall 4x4x0.2_proxy.007
+    400244: Church Wall 4x4x0.2_proxy.008
+    400246: Church Wall 4x4x0.2_proxy.009
+    400248: Church Wall 4x4x0.2_proxy.010
+    400250: Church Wall 4x4x0.2_proxy.011
+    400252: Church Wall 4x4x0.2_proxy.012
+    400254: Church Wall 4x4x0.2_proxy.013
+    400256: Church Wall 4x4x0.2_proxy.014
+    400258: Church Wall 4x4x0.2_proxy.015
+    400260: Church Wall 4x4x0.2_proxy.016
+    400262: Church Wall 4x4x0.2_proxy.017
+    400264: Church Wall 4x4x0.2_proxy.018
+    400266: Church Wall 4x4x0.2_proxy.019
+    400268: Church Wall 4x4x0.2_proxy.020
+    400270: Church Wall 4x4x0.2_proxy.021
+    400272: Church Wall 4x4x0.2_proxy.022
+    400274: Church Wall 4x4x0.2_proxy.023
+    400276: Church Wall 4x4x0.2_proxy.024
+    400278: Church Wall 4x4x0.2_proxy.025
+    400280: Church Wall 4x4x0.2_proxy.026
+    400282: Church Wall 4x4x0.2_proxy.027
+    400284: Church Wall 4x4x0.2_proxy.028
+    400286: Church Wall 4x4x0.2_proxy.029
+    400288: Church Wall 4x4x0.2_proxy.030
+    400290: Church Wall 4x4x0.2_proxy.031
+    400292: Church Wall 4x4x0.2_proxy.032
+    400294: Church Wall 4x4x0.2_proxy.033
+    400296: Church Wall 4x4x0.2_proxy.034
+    400298: Church Wall 4x4x0.2_proxy.035
+    400300: Church Wall 4x4x0.2_proxy.036
+    400302: Church Wall 4x4x0.2_proxy.037
+    400304: Church Wall 4x4x0.2_proxy.038
+    400306: Church Wall 4x4x0.2_proxy.039
+    400308: Church Wall 4x4x0.2_proxy.040
+    400310: Church Wall 4x4x0.2_proxy.041
+    400312: Church Window 4x4x0.2_proxy.001
+    400314: Church Window 4x4x0.2_proxy.002
+    400316: Church Window 4x4x0.2_proxy.003
+    400318: Church Window 4x4x0.2_proxy.004
+    400320: Church Window 4x4x0.2_proxy.005
+    400322: Church Window 4x4x0.2_proxy.007
+    400324: Church Window 4x4x0.2_proxy.008
+    400326: Church Window 4x4x0.2_proxy.009
+    400328: Church Window 4x4x0.2_proxy.010
+    400330: Church Window 4x4x0.2_proxy.011
+    400332: Church Window 4x4x0.2_proxy.012
+    400334: Church Window 4x4x0.2_proxy.013
+    400336: Church Window 4x4x0.2_proxy.014
+    400338: Church Window 4x4x0.2_proxy.015
+    400340: Church Window 4x4x0.2_proxy.016
+    400342: Church Window 4x4x0.2_proxy.017
+    400344: Church Window 4x4x0.2_proxy.018
+    400346: Church Window 4x4x0.2_proxy.019
+    400348: Church Window 4x4x0.2_proxy.020
+    400350: Church Window 4x4x0.2_proxy.021
+    400352: //RootNode
+    400354: Internal Light
+    400356: Lamp
+    400358: Nave
+    400360: Steeple
+    400362: Vaults
+    2100000: No Name
+    2100002: Material
+    2300000: Chruch Floor 2x2x0.2_proxy.002
+    2300002: Chruch Floor 2x2x0.2_proxy.003
+    2300004: Chruch Floor 2x2x0.2_proxy.004
+    2300006: Chruch Floor 2x2x0.2_proxy.005
+    2300008: Chruch Floor 2x2x0.2_proxy.006
+    2300010: Chruch Floor 2x2x0.2_proxy.007
+    2300012: Chruch Floor 2x2x0.2_proxy.008
+    2300014: Chruch Floor 2x2x0.2_proxy.009
+    2300016: Chruch Floor 2x4x0.2_proxy.002
+    2300018: Chruch Floor 2x4x0.2_proxy.003
+    2300020: Chruch Floor 2x4x0.2_proxy.004
+    2300022: Chruch Floor 2x4x0.2_proxy.005
+    2300024: Chruch Floor 4x4x0.2_proxy.002
+    2300026: Chruch Floor 4x4x0.2_proxy.003
+    2300028: Chruch Floor 4x4x0.2_proxy.004
+    2300030: Chruch Floor 4x4x0.2_proxy.005
+    2300032: Chruch Floor 4x4x0.2_proxy.006
+    2300034: Chruch Floor 4x4x0.2_proxy.007
+    2300036: Chruch Floor 4x4x0.2_proxy.008
+    2300038: Chruch Floor 4x4x0.2_proxy.009
+    2300040: Chruch Floor 4x4x0.2_proxy.010
+    2300042: Chruch Floor 4x4x0.2_proxy.011
+    2300044: Chruch Floor 4x4x0.2_proxy.012
+    2300046: Chruch Floor 4x4x0.2_proxy.013
+    2300048: Chruch Floor 4x4x0.2_proxy.014
+    2300050: Chruch Floor 4x4x0.2_proxy.015
+    2300052: Chruch Floor 4x4x0.2_proxy.016
+    2300054: Chruch Floor 4x4x0.2_proxy.017
+    2300056: Chruch Floor 4x4x0.2_proxy.018
+    2300058: Chruch Floor 4x4x0.2_proxy.019
+    2300060: Chruch Floor 4x4x0.2_proxy.020
+    2300062: Chruch Floor 4x4x0.2_proxy.021
+    2300064: Chruch Floor 4x4x0.2_proxy.022
+    2300066: Chruch Floor 4x4x0.2_proxy.023
+    2300068: Chruch Floor 4x4x0.2_proxy.024
+    2300070: Chruch Floor 4x4x0.2_proxy.025
+    2300072: Chruch Floor 4x4x0.2_proxy.026
+    2300074: Chruch Floor 4x4x0.2_proxy.027
+    2300076: Chruch Floor 4x4x0.2_proxy.028
+    2300078: Chruch Floor 4x4x0.2_proxy.029
+    2300080: Chruch Floor 4x4x0.2_proxy.030
+    2300082: Chruch Floor 4x4x0.2_proxy.031
+    2300084: Chruch Floor 4x4x0.2_proxy.032
+    2300086: Chruch Floor 4x4x0.2_proxy.033
+    2300088: Chruch Floor 4x4x0.2_proxy.034
+    2300090: Chruch Floor 4x4x0.2_proxy.035
+    2300092: Chruch Floor 4x4x0.2_proxy.036
+    2300094: Chruch Floor 4x4x0.2_proxy.037
+    2300096: Chruch Floor 4x4x0.2_proxy.038
+    2300098: Chruch Floor 4x4x0.2_proxy.039
+    2300100: Chruch Floor 4x4x0.2_proxy.040
+    2300102: Chruch Floor 4x4x0.2_proxy.041
+    2300104: Chruch Floor 4x4x0.2_proxy.042
+    2300106: Chruch Floor 4x4x0.2_proxy.043
+    2300108: Chruch Floor 4x4x0.2_proxy.044
+    2300110: Chruch Floor 4x4x0.2_proxy.045
+    2300112: Chruch Floor 4x4x0.2_proxy.046
+    2300114: Chruch Floor 4x4x0.2_proxy.047
+    2300116: Chruch Floor 4x4x0.2_proxy.048
+    2300118: Chruch Floor 4x4x0.2_proxy.049
+    2300120: Chruch Floor 4x4x0.2_proxy.050
+    2300122: Chruch Floor 4x4x0.2_proxy.051
+    2300124: Chruch Floor 4x4x0.2_proxy.052
+    2300126: Chruch Floor 4x4x0.2_proxy.053
+    2300128: Chruch Floor 4x4x0.2_proxy.054
+    2300130: Chruch Floor 4x4x0.2_proxy.055
+    2300132: Church Corner 1x4x0.2_proxy.002
+    2300134: Church Corner 1x4x0.2_proxy.003
+    2300136: Church Corner 1x4x0.2_proxy.004
+    2300138: Church Corner 1x4x0.2_proxy.005
+    2300140: Church Corner 1x4x0.2_proxy.006
+    2300142: Church Corner 1x4x0.2_proxy.007
+    2300144: Church Corner 1x4x0.2_proxy.008
+    2300146: Church Corner 1x4x0.2_proxy.009
+    2300148: Church Corner 1x4x0.2_proxy.010
+    2300150: Church Corner 1x4x0.2_proxy.011
+    2300152: Church Corner 1x4x0.2_proxy.012
+    2300154: Church Corner 1x4x0.2_proxy.013
+    2300156: Church Corner 1x4x0.2_proxy.014
+    2300158: Church Corner 1x4x0.2_proxy.015
+    2300160: Church Corner 1x4x0.2_proxy.016
+    2300162: Church Corner 1x4x0.2_proxy.017
+    2300164: Church Corner 1x4x0.2_proxy.018
+    2300166: Church Corner 1x4x0.2_proxy.019
+    2300168: Church Corner 1x4x0.2_proxy.020
+    2300170: Church Corner 1x4x0.2_proxy.021
+    2300172: Church Corner 1x4x0.2_proxy.022
+    2300174: Church Corner 1x4x0.2_proxy.023
+    2300176: Church Corner 1x4x0.2_proxy.024
+    2300178: Church Corner 1x4x0.2_proxy.025
+    2300180: Church Corner 1x4x0.2_proxy.026
+    2300182: Church Corner 1x4x0.2_proxy.027
+    2300184: Church Corner 1x4x0.2_proxy.028
+    2300186: Church Corner 1x4x0.2_proxy.029
+    2300188: Church Corner 1x4x0.2_proxy.030
+    2300190: Church Corner 1x4x0.2_proxy.031
+    2300192: Church Corner 1x4x0.2_proxy.032
+    2300194: Church Corner 1x4x0.2_proxy.033
+    2300196: Church Corner 1x4x0.2_proxy.034
+    2300198: Church Corner 1x4x0.2_proxy.035
+    2300200: Church Corner 1x4x0.2_proxy.036
+    2300202: Church Corner 1x4x0.2_proxy.037
+    2300204: Church Corner 1x4x0.2_proxy.038
+    2300206: Church Corner 1x4x0.2_proxy.043
+    2300208: Church Corner 1x4x0.2_proxy.044
+    2300210: Church Corner 1x4x0.2_proxy.045
+    2300212: Church Corner 1x4x0.2_proxy.046
+    2300214: Church Door 4x4x0.2_proxy.001
+    2300216: Church Door 4x4x0.2_proxy.003
+    2300218: Church Vault 8x8_proxy.002
+    2300220: Church Vault 8x8_proxy.003
+    2300222: Church Vault 8x8_proxy.004
+    2300224: Church Vault 8x8_proxy.005
+    2300226: Church Vault 8x8_proxy.007
+    2300228: Church Vault 8x8_proxy.008
+    2300230: Church Vault 8x8_proxy.009
+    2300232: Church Vault Steeple 8x8_proxy.002
+    2300234: Church Wall 4x4x0.2_proxy.002
+    2300236: Church Wall 4x4x0.2_proxy.003
+    2300238: Church Wall 4x4x0.2_proxy.005
+    2300240: Church Wall 4x4x0.2_proxy.006
+    2300242: Church Wall 4x4x0.2_proxy.007
+    2300244: Church Wall 4x4x0.2_proxy.008
+    2300246: Church Wall 4x4x0.2_proxy.009
+    2300248: Church Wall 4x4x0.2_proxy.010
+    2300250: Church Wall 4x4x0.2_proxy.011
+    2300252: Church Wall 4x4x0.2_proxy.012
+    2300254: Church Wall 4x4x0.2_proxy.013
+    2300256: Church Wall 4x4x0.2_proxy.014
+    2300258: Church Wall 4x4x0.2_proxy.015
+    2300260: Church Wall 4x4x0.2_proxy.016
+    2300262: Church Wall 4x4x0.2_proxy.017
+    2300264: Church Wall 4x4x0.2_proxy.018
+    2300266: Church Wall 4x4x0.2_proxy.019
+    2300268: Church Wall 4x4x0.2_proxy.020
+    2300270: Church Wall 4x4x0.2_proxy.021
+    2300272: Church Wall 4x4x0.2_proxy.022
+    2300274: Church Wall 4x4x0.2_proxy.023
+    2300276: Church Wall 4x4x0.2_proxy.024
+    2300278: Church Wall 4x4x0.2_proxy.025
+    2300280: Church Wall 4x4x0.2_proxy.026
+    2300282: Church Wall 4x4x0.2_proxy.027
+    2300284: Church Wall 4x4x0.2_proxy.028
+    2300286: Church Wall 4x4x0.2_proxy.029
+    2300288: Church Wall 4x4x0.2_proxy.030
+    2300290: Church Wall 4x4x0.2_proxy.031
+    2300292: Church Wall 4x4x0.2_proxy.032
+    2300294: Church Wall 4x4x0.2_proxy.033
+    2300296: Church Wall 4x4x0.2_proxy.034
+    2300298: Church Wall 4x4x0.2_proxy.035
+    2300300: Church Wall 4x4x0.2_proxy.036
+    2300302: Church Wall 4x4x0.2_proxy.037
+    2300304: Church Wall 4x4x0.2_proxy.038
+    2300306: Church Wall 4x4x0.2_proxy.039
+    2300308: Church Wall 4x4x0.2_proxy.040
+    2300310: Church Wall 4x4x0.2_proxy.041
+    2300312: Church Window 4x4x0.2_proxy.001
+    2300314: Church Window 4x4x0.2_proxy.002
+    2300316: Church Window 4x4x0.2_proxy.003
+    2300318: Church Window 4x4x0.2_proxy.004
+    2300320: Church Window 4x4x0.2_proxy.005
+    2300322: Church Window 4x4x0.2_proxy.007
+    2300324: Church Window 4x4x0.2_proxy.008
+    2300326: Church Window 4x4x0.2_proxy.009
+    2300328: Church Window 4x4x0.2_proxy.010
+    2300330: Church Window 4x4x0.2_proxy.011
+    2300332: Church Window 4x4x0.2_proxy.012
+    2300334: Church Window 4x4x0.2_proxy.013
+    2300336: Church Window 4x4x0.2_proxy.014
+    2300338: Church Window 4x4x0.2_proxy.015
+    2300340: Church Window 4x4x0.2_proxy.016
+    2300342: Church Window 4x4x0.2_proxy.017
+    2300344: Church Window 4x4x0.2_proxy.018
+    2300346: Church Window 4x4x0.2_proxy.019
+    2300348: Church Window 4x4x0.2_proxy.020
+    2300350: Church Window 4x4x0.2_proxy.021
+    2300352: Internal Light
+    3300000: Chruch Floor 2x2x0.2_proxy.002
+    3300002: Chruch Floor 2x2x0.2_proxy.003
+    3300004: Chruch Floor 2x2x0.2_proxy.004
+    3300006: Chruch Floor 2x2x0.2_proxy.005
+    3300008: Chruch Floor 2x2x0.2_proxy.006
+    3300010: Chruch Floor 2x2x0.2_proxy.007
+    3300012: Chruch Floor 2x2x0.2_proxy.008
+    3300014: Chruch Floor 2x2x0.2_proxy.009
+    3300016: Chruch Floor 2x4x0.2_proxy.002
+    3300018: Chruch Floor 2x4x0.2_proxy.003
+    3300020: Chruch Floor 2x4x0.2_proxy.004
+    3300022: Chruch Floor 2x4x0.2_proxy.005
+    3300024: Chruch Floor 4x4x0.2_proxy.002
+    3300026: Chruch Floor 4x4x0.2_proxy.003
+    3300028: Chruch Floor 4x4x0.2_proxy.004
+    3300030: Chruch Floor 4x4x0.2_proxy.005
+    3300032: Chruch Floor 4x4x0.2_proxy.006
+    3300034: Chruch Floor 4x4x0.2_proxy.007
+    3300036: Chruch Floor 4x4x0.2_proxy.008
+    3300038: Chruch Floor 4x4x0.2_proxy.009
+    3300040: Chruch Floor 4x4x0.2_proxy.010
+    3300042: Chruch Floor 4x4x0.2_proxy.011
+    3300044: Chruch Floor 4x4x0.2_proxy.012
+    3300046: Chruch Floor 4x4x0.2_proxy.013
+    3300048: Chruch Floor 4x4x0.2_proxy.014
+    3300050: Chruch Floor 4x4x0.2_proxy.015
+    3300052: Chruch Floor 4x4x0.2_proxy.016
+    3300054: Chruch Floor 4x4x0.2_proxy.017
+    3300056: Chruch Floor 4x4x0.2_proxy.018
+    3300058: Chruch Floor 4x4x0.2_proxy.019
+    3300060: Chruch Floor 4x4x0.2_proxy.020
+    3300062: Chruch Floor 4x4x0.2_proxy.021
+    3300064: Chruch Floor 4x4x0.2_proxy.022
+    3300066: Chruch Floor 4x4x0.2_proxy.023
+    3300068: Chruch Floor 4x4x0.2_proxy.024
+    3300070: Chruch Floor 4x4x0.2_proxy.025
+    3300072: Chruch Floor 4x4x0.2_proxy.026
+    3300074: Chruch Floor 4x4x0.2_proxy.027
+    3300076: Chruch Floor 4x4x0.2_proxy.028
+    3300078: Chruch Floor 4x4x0.2_proxy.029
+    3300080: Chruch Floor 4x4x0.2_proxy.030
+    3300082: Chruch Floor 4x4x0.2_proxy.031
+    3300084: Chruch Floor 4x4x0.2_proxy.032
+    3300086: Chruch Floor 4x4x0.2_proxy.033
+    3300088: Chruch Floor 4x4x0.2_proxy.034
+    3300090: Chruch Floor 4x4x0.2_proxy.035
+    3300092: Chruch Floor 4x4x0.2_proxy.036
+    3300094: Chruch Floor 4x4x0.2_proxy.037
+    3300096: Chruch Floor 4x4x0.2_proxy.038
+    3300098: Chruch Floor 4x4x0.2_proxy.039
+    3300100: Chruch Floor 4x4x0.2_proxy.040
+    3300102: Chruch Floor 4x4x0.2_proxy.041
+    3300104: Chruch Floor 4x4x0.2_proxy.042
+    3300106: Chruch Floor 4x4x0.2_proxy.043
+    3300108: Chruch Floor 4x4x0.2_proxy.044
+    3300110: Chruch Floor 4x4x0.2_proxy.045
+    3300112: Chruch Floor 4x4x0.2_proxy.046
+    3300114: Chruch Floor 4x4x0.2_proxy.047
+    3300116: Chruch Floor 4x4x0.2_proxy.048
+    3300118: Chruch Floor 4x4x0.2_proxy.049
+    3300120: Chruch Floor 4x4x0.2_proxy.050
+    3300122: Chruch Floor 4x4x0.2_proxy.051
+    3300124: Chruch Floor 4x4x0.2_proxy.052
+    3300126: Chruch Floor 4x4x0.2_proxy.053
+    3300128: Chruch Floor 4x4x0.2_proxy.054
+    3300130: Chruch Floor 4x4x0.2_proxy.055
+    3300132: Church Corner 1x4x0.2_proxy.002
+    3300134: Church Corner 1x4x0.2_proxy.003
+    3300136: Church Corner 1x4x0.2_proxy.004
+    3300138: Church Corner 1x4x0.2_proxy.005
+    3300140: Church Corner 1x4x0.2_proxy.006
+    3300142: Church Corner 1x4x0.2_proxy.007
+    3300144: Church Corner 1x4x0.2_proxy.008
+    3300146: Church Corner 1x4x0.2_proxy.009
+    3300148: Church Corner 1x4x0.2_proxy.010
+    3300150: Church Corner 1x4x0.2_proxy.011
+    3300152: Church Corner 1x4x0.2_proxy.012
+    3300154: Church Corner 1x4x0.2_proxy.013
+    3300156: Church Corner 1x4x0.2_proxy.014
+    3300158: Church Corner 1x4x0.2_proxy.015
+    3300160: Church Corner 1x4x0.2_proxy.016
+    3300162: Church Corner 1x4x0.2_proxy.017
+    3300164: Church Corner 1x4x0.2_proxy.018
+    3300166: Church Corner 1x4x0.2_proxy.019
+    3300168: Church Corner 1x4x0.2_proxy.020
+    3300170: Church Corner 1x4x0.2_proxy.021
+    3300172: Church Corner 1x4x0.2_proxy.022
+    3300174: Church Corner 1x4x0.2_proxy.023
+    3300176: Church Corner 1x4x0.2_proxy.024
+    3300178: Church Corner 1x4x0.2_proxy.025
+    3300180: Church Corner 1x4x0.2_proxy.026
+    3300182: Church Corner 1x4x0.2_proxy.027
+    3300184: Church Corner 1x4x0.2_proxy.028
+    3300186: Church Corner 1x4x0.2_proxy.029
+    3300188: Church Corner 1x4x0.2_proxy.030
+    3300190: Church Corner 1x4x0.2_proxy.031
+    3300192: Church Corner 1x4x0.2_proxy.032
+    3300194: Church Corner 1x4x0.2_proxy.033
+    3300196: Church Corner 1x4x0.2_proxy.034
+    3300198: Church Corner 1x4x0.2_proxy.035
+    3300200: Church Corner 1x4x0.2_proxy.036
+    3300202: Church Corner 1x4x0.2_proxy.037
+    3300204: Church Corner 1x4x0.2_proxy.038
+    3300206: Church Corner 1x4x0.2_proxy.043
+    3300208: Church Corner 1x4x0.2_proxy.044
+    3300210: Church Corner 1x4x0.2_proxy.045
+    3300212: Church Corner 1x4x0.2_proxy.046
+    3300214: Church Door 4x4x0.2_proxy.001
+    3300216: Church Door 4x4x0.2_proxy.003
+    3300218: Church Vault 8x8_proxy.002
+    3300220: Church Vault 8x8_proxy.003
+    3300222: Church Vault 8x8_proxy.004
+    3300224: Church Vault 8x8_proxy.005
+    3300226: Church Vault 8x8_proxy.007
+    3300228: Church Vault 8x8_proxy.008
+    3300230: Church Vault 8x8_proxy.009
+    3300232: Church Vault Steeple 8x8_proxy.002
+    3300234: Church Wall 4x4x0.2_proxy.002
+    3300236: Church Wall 4x4x0.2_proxy.003
+    3300238: Church Wall 4x4x0.2_proxy.005
+    3300240: Church Wall 4x4x0.2_proxy.006
+    3300242: Church Wall 4x4x0.2_proxy.007
+    3300244: Church Wall 4x4x0.2_proxy.008
+    3300246: Church Wall 4x4x0.2_proxy.009
+    3300248: Church Wall 4x4x0.2_proxy.010
+    3300250: Church Wall 4x4x0.2_proxy.011
+    3300252: Church Wall 4x4x0.2_proxy.012
+    3300254: Church Wall 4x4x0.2_proxy.013
+    3300256: Church Wall 4x4x0.2_proxy.014
+    3300258: Church Wall 4x4x0.2_proxy.015
+    3300260: Church Wall 4x4x0.2_proxy.016
+    3300262: Church Wall 4x4x0.2_proxy.017
+    3300264: Church Wall 4x4x0.2_proxy.018
+    3300266: Church Wall 4x4x0.2_proxy.019
+    3300268: Church Wall 4x4x0.2_proxy.020
+    3300270: Church Wall 4x4x0.2_proxy.021
+    3300272: Church Wall 4x4x0.2_proxy.022
+    3300274: Church Wall 4x4x0.2_proxy.023
+    3300276: Church Wall 4x4x0.2_proxy.024
+    3300278: Church Wall 4x4x0.2_proxy.025
+    3300280: Church Wall 4x4x0.2_proxy.026
+    3300282: Church Wall 4x4x0.2_proxy.027
+    3300284: Church Wall 4x4x0.2_proxy.028
+    3300286: Church Wall 4x4x0.2_proxy.029
+    3300288: Church Wall 4x4x0.2_proxy.030
+    3300290: Church Wall 4x4x0.2_proxy.031
+    3300292: Church Wall 4x4x0.2_proxy.032
+    3300294: Church Wall 4x4x0.2_proxy.033
+    3300296: Church Wall 4x4x0.2_proxy.034
+    3300298: Church Wall 4x4x0.2_proxy.035
+    3300300: Church Wall 4x4x0.2_proxy.036
+    3300302: Church Wall 4x4x0.2_proxy.037
+    3300304: Church Wall 4x4x0.2_proxy.038
+    3300306: Church Wall 4x4x0.2_proxy.039
+    3300308: Church Wall 4x4x0.2_proxy.040
+    3300310: Church Wall 4x4x0.2_proxy.041
+    3300312: Church Window 4x4x0.2_proxy.001
+    3300314: Church Window 4x4x0.2_proxy.002
+    3300316: Church Window 4x4x0.2_proxy.003
+    3300318: Church Window 4x4x0.2_proxy.004
+    3300320: Church Window 4x4x0.2_proxy.005
+    3300322: Church Window 4x4x0.2_proxy.007
+    3300324: Church Window 4x4x0.2_proxy.008
+    3300326: Church Window 4x4x0.2_proxy.009
+    3300328: Church Window 4x4x0.2_proxy.010
+    3300330: Church Window 4x4x0.2_proxy.011
+    3300332: Church Window 4x4x0.2_proxy.012
+    3300334: Church Window 4x4x0.2_proxy.013
+    3300336: Church Window 4x4x0.2_proxy.014
+    3300338: Church Window 4x4x0.2_proxy.015
+    3300340: Church Window 4x4x0.2_proxy.016
+    3300342: Church Window 4x4x0.2_proxy.017
+    3300344: Church Window 4x4x0.2_proxy.018
+    3300346: Church Window 4x4x0.2_proxy.019
+    3300348: Church Window 4x4x0.2_proxy.020
+    3300350: Church Window 4x4x0.2_proxy.021
+    3300352: Internal Light
+    4300000: Church Vault 8x8_proxy.002
+    4300002: Church Vault 8x8_proxy.003
+    4300004: Church Vault 8x8_proxy.004
+    4300006: Church Vault 8x8_proxy.007
+    4300008: Church Vault 8x8_proxy.008
+    4300010: Church Vault 8x8_proxy.009
+    4300012: Internal Light
+    4300014: Chruch Floor 4x4x0.2_proxy.004
+    4300016: Chruch Floor 2x4x0.2_proxy.004
+    4300018: Church Wall 4x4x0.2_proxy.007
+    4300020: Church Wall 4x4x0.2_proxy.006
+    4300022: Church Corner 1x4x0.2_proxy.038
+    4300024: Church Corner 1x4x0.2_proxy.037
+    4300026: Church Corner 1x4x0.2_proxy.036
+    4300028: Church Corner 1x4x0.2_proxy.035
+    4300030: Church Corner 1x4x0.2_proxy.034
+    4300032: Church Corner 1x4x0.2_proxy.033
+    4300034: Church Corner 1x4x0.2_proxy.032
+    4300036: Church Corner 1x4x0.2_proxy.031
+    4300038: Church Corner 1x4x0.2_proxy.030
+    4300040: Church Corner 1x4x0.2_proxy.029
+    4300042: Church Corner 1x4x0.2_proxy.028
+    4300044: Church Corner 1x4x0.2_proxy.027
+    4300046: Church Corner 1x4x0.2_proxy.026
+    4300048: Church Corner 1x4x0.2_proxy.025
+    4300050: Church Corner 1x4x0.2_proxy.024
+    4300052: Church Corner 1x4x0.2_proxy.023
+    4300054: Church Wall 4x4x0.2_proxy.002
+    4300056: Church Corner 1x4x0.2_proxy.015
+    4300058: Church Corner 1x4x0.2_proxy.016
+    4300060: Church Corner 1x4x0.2_proxy.017
+    4300062: Church Corner 1x4x0.2_proxy.018
+    4300064: Church Corner 1x4x0.2_proxy.019
+    4300066: Church Corner 1x4x0.2_proxy.020
+    4300068: Church Corner 1x4x0.2_proxy.021
+    4300070: Church Corner 1x4x0.2_proxy.022
+    4300072: Church Window 4x4x0.2_proxy.002
+    4300074: Church Window 4x4x0.2_proxy.001
+    4300076: Chruch Floor 2x4x0.2_proxy.002
+    4300078: Chruch Floor 4x4x0.2_proxy.002
+    4300080: Church Corner 1x4x0.2_proxy.014
+    4300082: Church Corner 1x4x0.2_proxy.013
+    4300084: Church Corner 1x4x0.2_proxy.012
+    4300086: Church Corner 1x4x0.2_proxy.011
+    4300088: Church Corner 1x4x0.2_proxy.010
+    4300090: Church Corner 1x4x0.2_proxy.009
+    4300092: Church Vault Steeple 8x8_proxy.002
+    4300094: Church Door 4x4x0.2_proxy.001
+    4300096: Church Window 4x4x0.2_proxy.003
+    4300098: Church Window 4x4x0.2_proxy.004
+    4300100: Church Wall 4x4x0.2_proxy.005
+    4300102: Church Wall 4x4x0.2_proxy.008
+    4300104: Church Window 4x4x0.2_proxy.005
+    4300106: Church Corner 1x4x0.2_proxy.002
+    4300108: Church Corner 1x4x0.2_proxy.003
+    4300110: Church Corner 1x4x0.2_proxy.004
+    4300112: Church Corner 1x4x0.2_proxy.005
+    4300114: Church Corner 1x4x0.2_proxy.007
+    4300116: Church Corner 1x4x0.2_proxy.006
+    4300118: Church Corner 1x4x0.2_proxy.008
+    4300120: Church Window 4x4x0.2_proxy.008
+    4300122: Church Wall 4x4x0.2_proxy.003
+    4300124: Church Wall 4x4x0.2_proxy.010
+    4300126: Chruch Floor 2x2x0.2_proxy.005
+    4300128: Chruch Floor 2x2x0.2_proxy.004
+    4300130: Chruch Floor 2x2x0.2_proxy.003
+    4300132: Chruch Floor 2x2x0.2_proxy.002
+    4300134: Chruch Floor 2x4x0.2_proxy.005
+    4300136: Church Wall 4x4x0.2_proxy.026
+    4300138: Church Wall 4x4x0.2_proxy.027
+    4300140: Church Wall 4x4x0.2_proxy.028
+    4300142: Church Wall 4x4x0.2_proxy.029
+    4300144: Church Wall 4x4x0.2_proxy.030
+    4300146: Church Wall 4x4x0.2_proxy.031
+    4300148: Church Wall 4x4x0.2_proxy.032
+    4300150: Church Wall 4x4x0.2_proxy.033
+    4300152: Church Wall 4x4x0.2_proxy.041
+    4300154: Church Wall 4x4x0.2_proxy.040
+    4300156: Church Wall 4x4x0.2_proxy.039
+    4300158: Church Wall 4x4x0.2_proxy.038
+    4300160: Church Wall 4x4x0.2_proxy.037
+    4300162: Church Wall 4x4x0.2_proxy.036
+    4300164: Church Wall 4x4x0.2_proxy.035
+    4300166: Church Wall 4x4x0.2_proxy.034
+    4300168: Chruch Floor 4x4x0.2_proxy.048
+    4300170: Chruch Floor 4x4x0.2_proxy.047
+    4300172: Chruch Floor 4x4x0.2_proxy.044
+    4300174: Chruch Floor 4x4x0.2_proxy.043
+    4300176: Chruch Floor 4x4x0.2_proxy.031
+    4300178: Chruch Floor 4x4x0.2_proxy.030
+    4300180: Chruch Floor 4x4x0.2_proxy.029
+    4300182: Chruch Floor 4x4x0.2_proxy.028
+    4300184: Church Window 4x4x0.2_proxy.021
+    4300186: Church Window 4x4x0.2_proxy.020
+    4300188: Church Window 4x4x0.2_proxy.018
+    4300190: Church Window 4x4x0.2_proxy.011
+    4300192: Chruch Floor 4x4x0.2_proxy.003
+    4300194: Chruch Floor 4x4x0.2_proxy.007
+    4300196: Chruch Floor 4x4x0.2_proxy.038
+    4300198: Chruch Floor 4x4x0.2_proxy.037
+    4300200: Chruch Floor 4x4x0.2_proxy.036
+    4300202: Chruch Floor 4x4x0.2_proxy.032
+    4300204: Chruch Floor 4x4x0.2_proxy.009
+    4300206: Chruch Floor 4x4x0.2_proxy.010
+    4300208: Chruch Floor 4x4x0.2_proxy.013
+    4300210: Chruch Floor 4x4x0.2_proxy.014
+    4300212: Chruch Floor 4x4x0.2_proxy.019
+    4300214: Chruch Floor 4x4x0.2_proxy.020
+    4300216: Chruch Floor 4x4x0.2_proxy.021
+    4300218: Chruch Floor 4x4x0.2_proxy.025
+    4300220: Chruch Floor 4x4x0.2_proxy.026
+    4300222: Chruch Floor 4x4x0.2_proxy.027
+    4300224: Chruch Floor 4x4x0.2_proxy.055
+    4300226: Chruch Floor 4x4x0.2_proxy.054
+    4300228: Chruch Floor 4x4x0.2_proxy.053
+    4300230: Chruch Floor 4x4x0.2_proxy.052
+    4300232: Church Vault 8x8_proxy.005
+    4300234: Chruch Floor 2x2x0.2_proxy.006
+    4300236: Chruch Floor 2x2x0.2_proxy.007
+    4300238: Chruch Floor 2x2x0.2_proxy.008
+    4300240: Chruch Floor 2x2x0.2_proxy.009
+    4300242: Chruch Floor 2x4x0.2_proxy.003
+    4300244: Church Door 4x4x0.2_proxy.003
+    4300246: Church Wall 4x4x0.2_proxy.009
+    4300248: Church Wall 4x4x0.2_proxy.011
+    4300250: Church Wall 4x4x0.2_proxy.012
+    4300252: Church Wall 4x4x0.2_proxy.013
+    4300254: Church Window 4x4x0.2_proxy.007
+    4300256: Church Window 4x4x0.2_proxy.009
+    4300258: Church Window 4x4x0.2_proxy.010
+    4300260: Church Corner 1x4x0.2_proxy.043
+    4300262: Church Corner 1x4x0.2_proxy.044
+    4300264: Church Corner 1x4x0.2_proxy.045
+    4300266: Church Corner 1x4x0.2_proxy.046
+    4300268: Chruch Floor 4x4x0.2_proxy.005
+    4300270: Chruch Floor 4x4x0.2_proxy.006
+    4300272: Chruch Floor 4x4x0.2_proxy.008
+    4300274: Chruch Floor 4x4x0.2_proxy.011
+    4300276: Chruch Floor 4x4x0.2_proxy.012
+    4300278: Chruch Floor 4x4x0.2_proxy.015
+    4300280: Chruch Floor 4x4x0.2_proxy.016
+    4300282: Chruch Floor 4x4x0.2_proxy.017
+    4300284: Chruch Floor 4x4x0.2_proxy.018
+    4300286: Chruch Floor 4x4x0.2_proxy.022
+    4300288: Chruch Floor 4x4x0.2_proxy.023
+    4300290: Chruch Floor 4x4x0.2_proxy.024
+    4300292: Church Wall 4x4x0.2_proxy.014
+    4300294: Church Wall 4x4x0.2_proxy.015
+    4300296: Church Wall 4x4x0.2_proxy.016
+    4300298: Church Wall 4x4x0.2_proxy.017
+    4300300: Church Wall 4x4x0.2_proxy.018
+    4300302: Church Window 4x4x0.2_proxy.012
+    4300304: Church Wall 4x4x0.2_proxy.019
+    4300306: Church Window 4x4x0.2_proxy.013
+    4300308: Church Window 4x4x0.2_proxy.014
+    4300310: Church Window 4x4x0.2_proxy.015
+    4300312: Church Window 4x4x0.2_proxy.016
+    4300314: Church Window 4x4x0.2_proxy.017
+    4300316: Church Wall 4x4x0.2_proxy.020
+    4300318: Church Wall 4x4x0.2_proxy.021
+    4300320: Church Wall 4x4x0.2_proxy.022
+    4300322: Church Wall 4x4x0.2_proxy.023
+    4300324: Church Wall 4x4x0.2_proxy.024
+    4300326: Church Wall 4x4x0.2_proxy.025
+    4300328: Chruch Floor 4x4x0.2_proxy.033
+    4300330: Chruch Floor 4x4x0.2_proxy.034
+    4300332: Chruch Floor 4x4x0.2_proxy.035
+    4300334: Chruch Floor 4x4x0.2_proxy.039
+    4300336: Chruch Floor 4x4x0.2_proxy.040
+    4300338: Chruch Floor 4x4x0.2_proxy.041
+    4300340: Chruch Floor 4x4x0.2_proxy.045
+    4300342: Chruch Floor 4x4x0.2_proxy.042
+    4300344: Chruch Floor 4x4x0.2_proxy.046
+    4300346: Chruch Floor 4x4x0.2_proxy.049
+    4300348: Chruch Floor 4x4x0.2_proxy.050
+    4300350: Chruch Floor 4x4x0.2_proxy.051
+    4300352: Church Window 4x4x0.2_proxy.019
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
